@@ -2105,8 +2105,7 @@
 			"[+1] Sight",
 			"May enter foreign tiles without open borders",
 			"Uncapturable",
-			"Cannot be purchased",
-		]
+			"Cannot be purchased",]
 	},
 	{
 		"name": "Polder Builder",
@@ -2119,7 +2118,6 @@
 			"Can build [Polder] improvements on tiles",
 			"Cannot enter ocean tiles <before discovering [Astronomy]>",
 			"Uncapturable"
-		]
 	},
 		{
 	"name": "Dani Said",
