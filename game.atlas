@@ -2237,28 +2237,28 @@ NationIcons/Canada
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/China
+NationIcons/Casa Menezes
   rotate: false
   xy: 880, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Egypt
+NationIcons/Casa Macedo
   rotate: false
   xy: 1096, 977
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/England
+NationIcons/Casa Silva
   rotate: false
   xy: 420, 1079
   size: 186, 188
   orig: 186, 188
   offset: 0, 0
   index: -1
-NationIcons/Ethiopia
+NationIcons/Casa Said
   rotate: false
   xy: 1096, 653
   size: 100, 100
@@ -2307,7 +2307,7 @@ NationIcons/Greece
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Hungary
+NationIcons/Casa Assunção 
   rotate: false
   xy: 1284, 112
   size: 100, 101
@@ -5302,6 +5302,13 @@ UnitIcons/Legion
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Crias do Romeu
+  rotate: false
+  xy: 328, 1836
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Llanero
   rotate: false
   xy: 436, 1944
@@ -5387,6 +5394,13 @@ UnitIcons/Modern AT
   offset: 0, 0
   index: -1
 UnitIcons/Mountie
+  rotate: false
+  xy: 328, 1296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cavalaria de Geovanna
   rotate: false
   xy: 328, 1296
   size: 100, 100
