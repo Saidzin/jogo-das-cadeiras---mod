@@ -900,73 +900,33 @@
 			"Hull"
 		]
 	},
-	{
-		"name": "Ethiopia",
-		"leaderName": "Menelik II",
-		"adjective": [
-			"Ethiopian"
-		],
-		"startBias": [
-			"Hill"
-		],
+{
+		"name": "Casa Said",
+		"leaderName": "Davi Said",
+		"adjective": ["Saids"],
 		"preferredVictoryType": "Cultural",
-		"declaringWar": "Your actions insult the people of Ethiopia, and for that you must pay a heavy price.",
-		"attacked": "Do you not know that the Lion of Judah has always conquered? Well, you will learn soon enough.",
-		"defeated": "Do you think God abandoned Ethiopia? Do you think his favor rests on you? Do not gloat in your victory today.",
-		"introduction": "I am Menelik, Lion of Judah, of the house and lineage of Solomon, emperor of Ethiopia. Greetings.",
-		"neutralHello": "You are on the right side of history.",
-		"hateHello": "Your rule is a disgrace.",
-		"tradeRequest": "Ethiopia sends you our warm wishes.",
-		"outerColor": [
-			248,
-			217,
-			2
-		],
-		"innerColor": [
-			21,
-			108,
-			49
-		],
-		"uniqueName": "Aksumite Legacy",
-		"uniques": [
-			"[+1 Faith] from every [Bonus resource]",
-			"[+1 Faith] from every [Luxury resource]",
-			"[+1 Faith] from every [Strategic resource]",
-			"May buy [Archaeologist] units for [800] [Faith] [in all cities]"
-		],
-		"cities": [
-			"Addis Ababa",
-			"Gondar",
-			"Harar",
-			"Axum",
-			"Adwa",
-			"Lalibela",
-			"Mekele",
-			"Dessie",
-			"Jimma",
-			"Sodo",
-			"Dire Dawa",
-			"Adigrat",
-			"Weldiya",
-			"Ankober",
-			"Alamata",
-			"Yirgalem",
-			"Gore",
-			"Negele Borana",
-			"Ginir",
-			"Debarq",
-			"Nejo",
-			"Debre Berhan",
-			"Abiy Addi",
-			"Mersa",
-			"Soqota",
-			"Sayint Ajebar",
-			"Chencha",
-			"Antalo",
-			"Yifat",
-			"Dabat",
-			"Debre Sina"
-		]
+		"personality": "Davi Said",
+		
+	"startIntroPart1": "Cultura é poder!!",
+	"startIntroPart2": "Lord dos 7 reinos e protetor de nações, todos saudem Davi Said!!",
+		
+	"declaringWar": "Nunca é o que procuramos, mas sempre o que temos ao final!!",
+		"attacked": "Desejamos uma boa sorte, vão precisar!",
+		"defeated": "Isso não é possivel, e muito menos justo!",
+		"introduction": "O lord dos 7 reinos pede sua atenção!!",
+		
+		"neutralHello": "Como posso ajudá-lo?",
+		"hateHello": "O que você quer agora",
+		"tradeRequest": "Nós temos uma ótima oferta!.",
+		"outerColor": [255,255,255],
+		"innerColor": [65,141,254],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Tesouro Cultural",
+		"uniques": ["[+2 Culture] [in all cities] <before discovering [Steam Power]>", "[+2 Gold] from each Trade Route", "[-50]% City-State Influence degradation", "[2] Free Social Policies", "[+2 Gold, +3 Production] per [4] social policies adopted"],
+		"cities": ["Jequié","Caucaia","Ouro Verde","Mar de Aruana","Royal Palm","Felicidades","Fortaleza","Q'Vronens","Q'Aerlae",
+			"Q'Royal Palm","Q'Felicidades","Q'São Paulo","Q'Fortaleza","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
 	{
 		"name": "France",
